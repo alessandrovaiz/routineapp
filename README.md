@@ -2,3 +2,5 @@
 
 Aplicativo em flutter para organizar sua rotina, com backend em nodejs e banco de dados postgreSQL
 
+No flutter utilizando Modulare e MOBX
+
